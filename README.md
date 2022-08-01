@@ -233,4 +233,10 @@ Typically, business focus on ony 2 outcomes:
 - output based teams - low eNPS score
 
 
+### DevOps Works for Everyone: Three Case Studies
+
+- DevOps works regardless of methodology
+
+
+
 
