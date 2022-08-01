@@ -129,6 +129,108 @@ Also: organizational culture predicts information flow
 - timeliness
 - presented in such a way as to be effective
 
+What does good culture look like?
+
+- trust and collaboration across the organization
+- indicated high-quality decision making
+
+
+## Leadership philosophies
+
+- honour and extract reality
+
+### Extracting Reality
+
+- leaders respond negatively by 'shooting the messenger'
+- build trust to make team feel safe
+- use 'how'instead of 'who'
+- ask, 'How can I help?'
+
+### Understand the work
+
+- concept of **gemba** : Japanese term meaning 'the actual place'
+- not micromanagement - purpose is to 'go see' not to 'go tell'
+- demonstrate commitment to learning and problem-solving with the team
+
+### Root Cause Philosophies
+
+- human error is not a cause
+- focus on learning vs finding root cause
+- no single root case
+- focus on learning
+
+### Leading by example
+
+- make sure actions work
+
+### Leadership is accountable
+
+- provide strategic direction, prioritization, focus and discipline
+- encourage a learning environment
+- provide intent, context and accountability
+
+### Lifelong learner
+
+- be active in the community and learn from others
+- new experiences give additional knowledge and resiliance
+- step outside the comfort zone and experiment
+
+### #1 Asset - People
+
+- Lean is all about repect for people
+- foundation of all leadership philosophies
+- create high trust and a generative culture
+
+
+## Changing metrics: Shifting from Outputs to Outcomes
+
+### Outputs vs. Outcomes
+
+Output = what we deliver
+Oucome = what we gain from output
+
+Focus on the outcome
+
+Typically, business focus on ony 2 outcomes:
+
+1. Increasing revenue
+2. Improving efficiency
+
+### Deployment Pain metric
+
+- measures difficulty of deployment into prod
+- indicates how performant org is
+- can also indicate burnout of ppl and culture
+
+### Change failure Rate
+
+- focus on smaller more frequent changes
+- enable roll back and feature flags (to turn off new feature if buggy)
+
+### Deployment Frequency
+
+- high perf orgs deploy on demand
+- correlated with deployment pain
+
+### Lead time
+
+- lemgth of time it takes identified change to be integrated and in customer's hands
+
+### Mean Time to Restore Service (MTTR)
+
+### Unplanned Work
+
+- key indicator of organizational performance
+- disruptions keeps from delivering
+
+### Employee Net Promoter Score (eNPS)
+
+- how likely would you refer someone to this team?
+- or to the overall org
+- culture is extremely important within a team / org
+
+- outcome based teams - highest eNPS
+- output based teams - low eNPS score
 
 
 
