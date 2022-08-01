@@ -59,4 +59,14 @@ Profound understanding of the system
  > Netflix 'Chaos Monkey'
  
  
+# DevOps Principles: The Seven Principles and Seven Wastes of Lean
+
+1. Eliminate waste - partially done work, extra features, revisiting decisions, handoffs, delays, task switching, defects
+3. Build quality in
+4. Create knowledge
+5. Defer commitment - one way and two way decisions
+6. Deliver fast
+7. Respect people
+8. Optimize whole
+
 
