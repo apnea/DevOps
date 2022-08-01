@@ -11,7 +11,7 @@ CAMS - Culture, Automation, Measurement, and Sharing
 
 CALMS - CAMS + Lean
 
-# DevOps Principles: The three ways
+# DevOps Principles: The Three Ways
 
 *William Edwards Demings*
 [link](https://en.wikipedia.org/wiki/W._Edwards_Deming)
@@ -19,4 +19,44 @@ CALMS - CAMS + Lean
 PDCA  (plan–do–check–act or plan–do–check–adjust)
 
 TQM (total quality management)
+
+## The Three Ways
+
+1. Systems Thinking
+2. Amplifying feedback loops
+3. A culture of continuous experimentation and learning
+
+Developed by *Gene Kim* and *Mike Orzen*
+
+### Systems Thinking
+
+Emphasizes performance of entire system
+
+Colaboration across functional lines
+
+Focuses on IT-enabled **value streams**
+
+### Systems Thinking Outcomes
+
+**Stops passing defects** downstream
+
+Does not allow local optimisation
+
+Always seeking to increase flow
+
+Profound understanding of the system
+
+### Practical Challenges
+
+ - protect capacilty
+ - pressure on delivery trumps experimentation and learning
+ - leaders who balance capactity with experimentation and learning are key
+ - create a culture where it is safe to take risks
+ 
+ Note:
+ 
+ > Chaos Engineering
+ > Netflix 'Chaos Monkey'
+ 
+ 
 
