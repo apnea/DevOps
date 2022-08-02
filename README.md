@@ -261,11 +261,48 @@ Typically, business focus on ony 2 outcomes:
 ### Value stream mapping 101
 
 - choose small number of pilot teams
-- also: start samll with feature delivery
-- > start small
-- > get immediate feedback
-- > learn fast
-- > adjust
-- 
+- also: start small with feature delivery
+> start small
 
+> get immediate feedback
 
+> learn fast
+
+> adjust
+
+- traditional silos
+
+`Dev team`
+`QA team`
+`Ops`
+
+- benefits of an integrated team
+   - able to be proactive
+   - fix code before testing
+   - fast feedback loops
+
+- rolling out organizational change
+    - starting out small and running pilots saves
+        - Time
+        - Money
+        - Effort
+        - plus you learn a lot
+
+- Product Owner Role
+    - let business systems analysts take on PO role
+    - PO role is most critical
+    - Day to day decision maker
+
+- Developer Role
+    - change mindset to Developer/Engineer
+    - i.e. accountable for development, quality, security, and non-functional requirements
+    - important to help developers see the bigger picture
+    
+- Lines around roles are blurring
+    - dev, QA, Ops
+    - traditional roles too siloed
+    - people taking on multiple roles
+    
+
+    
+    
