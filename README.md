@@ -238,5 +238,21 @@ Typically, business focus on ony 2 outcomes:
 - DevOps works regardless of methodology
 
 
+# Module 2 - Working with a DevOps Mindset
+
+## The Importance of Loosely Coupled Architecture Teams
+
+### Loosely coupled architecture
+
+- Components are appropriately isolated
+- Can modify and test independently
+- Still collaborate and communicate
+- Changes can be readily implemennted
+- Able to scale horizontally
+- Streamlines testing
+- Allows for speed and agility
+
+
+
 
 
