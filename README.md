@@ -252,7 +252,20 @@ Typically, business focus on ony 2 outcomes:
 - Streamlines testing
 - Allows for speed and agility
 
+- assign an individual to track dependencies
+- important to reduce dependencies
+- free team to dicuss higher level goals
 
+## The Importance of Iteration and the Evolution of Roles
 
+### Value stream mapping 101
+
+- choose small number of pilot teams
+- also: start samll with feature delivery
+- > start small
+- > get immediate feedback
+- > learn fast
+- > adjust
+- 
 
 
