@@ -304,5 +304,75 @@ Typically, business focus on ony 2 outcomes:
     - people taking on multiple roles
     
 
-    
-    
+### Managing Risk with DevOps
+
+Managing RIsk and DevOps Myths
+- many myths in the industry
+
+Risk Management Theatre
+- checking the boxes
+- feel-good checking boxes
+- risk management fear
+
+Better:
+- focus on process
+- improve delivery performance
+- increase stability, quality and speed
+
+How is it compared to ITIL?
+
+ITIL
+- Change
+- Release
+- Configuration
+- Incident
+- Problem
+- Knowledge Management
+
+Change and Release => DevOps => Improve change management through DevOps
+
+Reduce MTTR
+
+Freeze Windows
+- risk after freeze windows
+- changes accumulate and incidents increase post window
+
+instead: Rethink Change Philosophy
+- allow for continual change when teams demonstrae track record
+- invest in team capabilities
+- check track record
+- confirm reasons to expect results
+- ensure minimal risk
+
+### Dealing with Unplanned Work
+
+'a quick question'
+'an incident'
+'drop everything events'
+
+Unplanned Discovery Work
+- research request
+- further define a feature
+- dig deeper into a technical solution
+- > many orgs not explicitly resourced for this
+
+How to deal with u.p. work
+- track it
+- determine how disruptive it is
+- can be an **indicator of organizational performance**
+
+Tracking UP work
+- quantified cost of disruption
+- provided a way to predict implications
+- allowed team to factor it into planning
+
+Disruption of Context Switching
+- rethinck the value of multitasking
+- bewrase changing priorities
+- distractions come with dangers
+- counterproductive: time is lost, quality suffers
+- remedy: focus on delivering value - leadership aligns priorities and cascades
+- 
+
+
+
