@@ -304,7 +304,7 @@ Typically, business focus on ony 2 outcomes:
     - people taking on multiple roles
     
 
-### Managing Risk with DevOps
+## Managing Risk with DevOps
 
 Managing RIsk and DevOps Myths
 - many myths in the industry
@@ -344,7 +344,7 @@ instead: Rethink Change Philosophy
 - confirm reasons to expect results
 - ensure minimal risk
 
-### Dealing with Unplanned Work
+## Dealing with Unplanned Work
 
 'a quick question'
 'an incident'
@@ -372,7 +372,85 @@ Disruption of Context Switching
 - distractions come with dangers
 - counterproductive: time is lost, quality suffers
 - remedy: focus on delivering value - leadership aligns priorities and cascades
-- 
 
 
+## Managing Workload with a DevOps Mindset
+
+### Tracking work at the team level
+
+- no lack of talent
+- manage talent!
+- engineering capacity is #1 limit to get stuff done
+
+Categories to Manage Work
+
+- Features
+- Technical Debt
+- Operational Work
+- Unplanned Work
+- Track all of them
+
+Honoring and extracting reality
+- make it visible
+- create an environment where teams are comfortable to surface reality
+- connect to business outcome
+- e.g. if unplanned wotk is a large % of team work then it is unlikely that business outcomes are being maximised
+- ratio of these categories may also indicate a certain level of employee burnout
+
+Balance to prevent Burnout
+
+- how does your team feel
+- do they have the support to remove waste?
+-- team must have opportunity to remove technical debt
+- do they have balance needed to improve
+- time, capacity and space to learn and improve 
+- go over improvement opportunities the team has identified 
+
+What should data collection be about?
+
+- dont fall into trap to be too prescriptive about the definitions of the work
+- important to let the teams define it for themselves
+- should be tracked, reviewed, and leaders should be asking good questions about the data
+-- understanding the current condition
+-- setting new targets
+-- continuous improvement
+- team can use improvement kata and A3 to identify opportunities to learn and improve
+- leader's role is to be supportive and resolve team's needs that surface, e.g. team may need to adjust ration of ops vs feature work etc
+- implement feedback loops - especially for 'unhealthy' products
+
+Adjusting in the digital space
+- Have team build, own and improve entire product
+- change expectation: resilience, performance and health of the product **are features**
+- make data visible - let stakeholders see operational data
+
+Payoff of Managing Workload with DevOps Mindset
+- improved crashrates
+- upswing in team ownership and accountability
+- everybody happier
+- fewer complaints
+
+Architecture needs to be in place for team to own and improve a product
+
+Having the shortest feedback loops helps
+
+Recap: Employee Net Promoter Score:
+
+1. Would you recommed your org as a place to work to a friend or colleague?
+2. Would you recommend your team as a place to work to a friend or colleague?
+
+Scores:
+- 9-10: Promoter
+- 7-8: Passive
+- 0-6: Detractors
+
+Score is calculated by subtracting detractor from promoters, e.g.
+- if 20% are promoters and 40% detractors, the eNPS is -20%
+
+- high performing teams are more likely to recommend their workplace and team
+- employee engagement drives business outcomes
+
+What leads to Happy Teams?
+- seeing connection between work and impact on customers
+- ability to visualize flow of work from development to the customer
+- identification with company values and goals
 
