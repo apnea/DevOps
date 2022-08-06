@@ -468,4 +468,6 @@ Surface Work to Better Understand Flow
 - helps team see what needs to be broken down into smaller batches
 - creates opportunities to ask questions
 
-Dominica DeGrandis - Making Work Visible
+**Dominica DeGrandis - Making Work Visible**
+
+
