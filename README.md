@@ -454,3 +454,18 @@ What leads to Happy Teams?
 - ability to visualize flow of work from development to the customer
 - identification with company values and goals
 
+## Addressing DevOps Myths: Making Work Visible
+
+As in Manufacturing, Soo Too in Software Delivery
+
+- Make your teams' work visible
+- Kanban, Trello, Jira
+
+Surface Work to Better Understand Flow
+
+- promotes problem solving
+- handles competing priorities and trade-offs
+- helps team see what needs to be broken down into smaller batches
+- creates opportunities to ask questions
+
+Dominica DeGrandis - Making Work Visible
